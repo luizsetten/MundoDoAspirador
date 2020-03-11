@@ -24,7 +24,6 @@ public class Estado {
 	}
 	
 	/**
-	 * 
 	 * @param pai
 	 * @param sujo matriz contendo onde o local está limpo(0) e onde está sujo(1)
 	 * @param x posição do aspirado no eixo horizontal
